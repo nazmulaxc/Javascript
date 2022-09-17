@@ -4,3 +4,17 @@ Javascript is a programming language;
 Javascript use only to do web interactive;
 
 
+Officil name of Javascript is 'Ecmascript';
+
+
+Es1, Es2, Es3 = 1997-1999
+Es5 = 2009;
+Es6 = 2015
+
+
+InnerHtml
+Document.write
+console.log()
+alert();
+
+
